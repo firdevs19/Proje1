@@ -7,5 +7,6 @@ public class C01 {
         System.out.println("Hello World");
 
         System.out.println("Merhaba Java");
+        System.out.println("deneme");
     }
 }
